@@ -14,7 +14,7 @@
     <li> <a href="https://github.com/AnuhyaVenugopal/CMPE-202-individual-project">Stock Inventory.</a></li>
     <li> <a href="https://github.com/sjsucmpe272-fall21/Investor-Protector">Investor-Protector.</a></li>
 </ol>
-<a href="https://www.linkedin.com/in/AnuhyaVenugopal/">
+<a href="https://www.linkedin.com/in/anuhyagankidi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="mailto:gankidianuhya@gmail.com">
