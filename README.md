@@ -2,8 +2,8 @@
 
 <img src="Anuhya_banner.png">
 
-👩🏾‍🎓 I am Spring 2023 Software Engineering graduate from San Jose State University.  <br>
-👩🏾‍💼 With more than 2 years of work experience as Software Developer from Adobe Systems, India.  <br>
+👩🏾‍🎓 I am a Software Engineering graduate from San Jose State University.  <br>
+👩🏾‍💼 With more than a few years of work experience as Software Developer.  <br>
 👩🏾‍💻 I have worked with - C, Java, Python, JavaScript, React, Node, Docker, AWS, Git, JIRA, HTML, CSS, Spring, Flask, APIs, MySQL, PostgreSQL.<br>
 🙇🏾‍♀️ I want to create software projects that can positively impact the community. <br>
 🙋🏾‍♀️ I am open to exploring new opportunities and meeting people. <br>
